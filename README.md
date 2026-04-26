@@ -1,5 +1,7 @@
 # Проекты
 ## Дашборды в Datalens
+https://datalens.yandex/wxh9b0gqdtxwg - ДТП и погодные условия
+
 https://datalens.ru/3nwqaecc7zpup - Финальный проект
 
 https://datalens.yandex/r0inrl4g71u6d - Разработка ключевых метрик
